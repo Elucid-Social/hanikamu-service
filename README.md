@@ -4,7 +4,7 @@
 
 ## Services
 
--
+--
 
 #### Definition
 Services enforce a pattern design as service objects.
